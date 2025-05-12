@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ngamanda
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning golang!
 - 💞️ I’m looking to collaborate on web projects
 - 📫 Find me at ngamanda.com
 
